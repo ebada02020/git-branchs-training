@@ -23,5 +23,10 @@ ul{
 =======
 p{
     background-color: palevioletred;
+<<<<<<< HEAD
 >>>>>>> feature
+=======
+    border: 20px;
+    border-radius: 30px;
+>>>>>>> mido1
 }
