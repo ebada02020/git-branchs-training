@@ -17,6 +17,11 @@ footer{
     font-size: xx-large;
     background-color: blueviolet;
 }
+<<<<<<< HEAD
 ul{
     list-style: none;
+=======
+p{
+    background-color: palevioletred;
+>>>>>>> feature
 }
